@@ -7,5 +7,5 @@
  * in the user manual at https://docs.gradle.org/6.7.1/userguide/multi_project_builds.html
  */
 
-rootProject.name = "gradle-demo"
+rootProject.name = "gradle-demo-2"
 include("app", "list", "utilities")
